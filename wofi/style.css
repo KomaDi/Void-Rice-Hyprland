@@ -1,6 +1,8 @@
 * {
    outline: none;
    border-radius: 6px;
+   font-family: Roboto Bold;
+   font-weight: bold;
 }
 
 #window {

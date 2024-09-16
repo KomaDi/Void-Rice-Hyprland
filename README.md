@@ -1,5 +1,5 @@
 # Void-Rice-Hyprland
-
+![Void Rice](void.png)
 
 Hyprland Void Linux Rice
 

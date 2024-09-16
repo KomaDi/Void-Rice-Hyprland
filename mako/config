@@ -1,0 +1,14 @@
+sort=-time
+layer=overlay
+background-color=#478060d9
+width=300
+height=150
+border-size=0
+border-color=#fd504bd9
+border-radius=6
+icons=0
+max-icon-size=64
+default-timeout=5000
+ignore-timeout=1
+font=Roboto-Bold 12
+text-color=#abc3ab
